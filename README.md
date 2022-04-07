@@ -1,2 +1,2 @@
-# Frost-Hack-kami-based-client
-do what you want, but if you use this to make another forked client then include my name in it. dont sell it please
+INFO:
+feel free to download, its a poorly made fork of Kami Blue that gives me a minecon cape (Can add UUIDs to cape list but I don't think I'm gonna update this)
